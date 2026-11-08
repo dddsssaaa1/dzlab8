@@ -22,24 +22,7 @@ $$P = \left(1 - \frac{1}{2^2}\right) \times \left(1 - \frac{1}{3^2}\right) \time
 
 ## 2. Реализация программы
 
-```c
-#include <stdio.h>
-
-int main() {
-    int n;
-    double p = 1.0;
-
-    printf("Введите n: ");
-    scanf("%d", &n);
-
-    for (int i = 2; i <= n; i++) {
-        p *= (1.0 - 1.0 / (i * i));
-    }
-
-    printf("Результат: %f\n", p);
-    return 0;
-}
-```
+Исходный код программы: [FileName.c](FileName.c)
 
 ## 3. Тестирование
 
