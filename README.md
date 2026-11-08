@@ -18,7 +18,7 @@ $$P = \left(1 - \frac{1}{2^2}\right) \times \left(1 - \frac{1}{3^2}\right) \time
 
 ### Блок-схема
 
-Исходник схемы для draw.io: [Lab8.drawio](Lab8.drawio)
+### ![Блок-схема программы](Lab8.png)
 
 <img width="403" height="892" alt="block-scheme" src="https://github.com/user-attachments/assets/9246d745-ad26-4999-acd8-8b7e92c6d368" />
 
